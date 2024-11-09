@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer-at-git&label=Profile%20views&color=0e75b6&style=flat" alt="sameer-at-git" /> </p>
 
-- 🔭 I’m currently working on **Dont know**
+- 🔭 I’m currently working on **University Courses Projects**
 
-- 🌱 I’m currently learning **Other Visualization models**
+- 🌱 I’m currently learning **Data Analysis **
 
-- 👯 I’m looking to collaborate on **Biiggg Projects**
+- 👯 I’m looking to collaborate on **Data Science or Data Analysis based Projects**
 
-- 👨‍💻 All of my projects are available at [Here](Here)
+- 👨‍💻 All of my projects are available at [Here](www.sameersayed.com)
 
 - 📝 I regularly write articles on [Nowhere bro](Nowhere bro)
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [Haha dont have one](Haha dont have one)
 
-- ⚡ Fun fact **I like to sleep at work**
+- ⚡ Fun fact **I like to watch movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
