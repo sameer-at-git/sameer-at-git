@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **University Courses Projects**
 
-- 🌱 I’m currently learning **Data Analysis **
+- 🌱 I’m currently learning **Data Analysis**
 
 - 👯 I’m looking to collaborate on **Data Science or Data Analysis based Projects**
 
