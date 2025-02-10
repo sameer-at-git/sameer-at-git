@@ -2,6 +2,9 @@
 <h3 align="center">A Data Analyst from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer-at-git&label=Profile%20views&color=0e75b6&style=flat" alt="sameer-at-git" /> </p>
+## 🌟 Continuous Learning Blog
+Documenting my journey from basic Python to advanced topics like Django, Flask, Pandas, and Scikit-Learn.  
+📖 [Check it out here!](https://sameer-at-git.github.io/Continuous-Learning-Blog/)
 
 - 🔭 I’m currently working on **University Courses Projects**
 
